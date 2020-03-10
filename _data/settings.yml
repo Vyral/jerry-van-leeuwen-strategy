@@ -1,22 +1,26 @@
 audit_header: false
 title: "Guaranteed Offer"
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+description: Jerry Van Leeuwen, a top Real Estate Agent in Tri-Cities Area, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 client:
-  name:
+  name: Jerry Van Leeuwen
   title:
   license_number:
-  about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  about_markdown: >-
+    Jerry has been helping families and individuals find and secure their dream
+    homes for many years now. His family has been his driving force and they
+    inspire him to maintain a strong work ethic. Jerry's previous experience as
+    a paramedic has helped him develop a passion for the positive aspects of
+    life.
+  brand: Van Leeuwen Real Estate Advisors
+  brokerage: eXp Realty Brokerage
+  market: Tri-Cities Area
+  address: '240 Holiday Inn Drive, Suite S, Cambridge, Ontario N3C 3X4'
+  phone: 519-208-6026
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: GetResults@VanleeuwenAdvisors.com
+  url: 'http://www.VLAHomeListings.com'
 
 images:
   client_headshot_path: /img/headshot.jpg
@@ -27,20 +31,16 @@ images:
   mobile_logo_width: 150px
 
 site_colors:
-  brand_color: '#094264'
-  theme_color: '#999'
+  brand_color: '#0f75bc'
+  theme_color: '#000000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
-navbar_colors:
-  border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: '#000000'
 
 buttons:
   button_radius_number: 0
