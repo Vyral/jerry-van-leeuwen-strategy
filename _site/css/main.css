@@ -1852,7 +1852,8 @@ table tr, table td {
   border: 3px solid #0f75bc;
   overflow: hidden;
   display: inline-block;
-  margin: auto; }
+  margin: auto;
+  float: right; }
 
 .client-image {
   max-width: 200px; }
@@ -1862,8 +1863,6 @@ table tr, table td {
   justify-content: center;
   padding: 40px 10px 40px;
   font-size: 18px; }
-  .about-container div {
-    display: flex; }
 
 .about-text {
   display: flex;
@@ -1919,6 +1918,13 @@ table tr, table td {
 @media (max-width: 760px) {
   .footer {
     margin-bottom: 40px; } }
+.kw {
+  max-width: 250px;
+  bottom: 0;
+  position: absolute;
+  margin: 0 auto;
+  display: block; }
+
 form label {
   display: block; }
 form textarea {

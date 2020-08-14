@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guaranteed Offer</title>
-    <description>Jerry Van Leeuwen, a top Real Estate Agent in Tri-Cities Area, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
+    <description>Jerry Van Leeuwen, a top Real Estate Agent in Tri-Cities Area, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Mar 2020 13:49:58 -0500</pubDate>
-    <lastBuildDate>Thu, 12 Mar 2020 13:49:58 -0500</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2020 09:42:05 -0500</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2020 09:42:05 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
   </channel>
